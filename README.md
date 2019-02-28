@@ -9,4 +9,4 @@ I implemented a custom transformer to process separately two textual variables.
 Data can be found at the following link:
 https://www.kaggle.com/rmisra/news-category-dataset
 
-If you want to execute the code directly, name the json file *news.json*.
+If you want to execute the code directly, name the json file *news.json*, and put it in a *data* folder.
