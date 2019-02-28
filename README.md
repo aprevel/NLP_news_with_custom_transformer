@@ -1,6 +1,7 @@
 # New_Categories_Custom_Transformer
 
 This repository contains a short notebook showing how to predict an article category by using NLP techniques. 
+The package I used for lemmatization is Spacy, and the rest of the pipeline is based on Sklearn.
 
 I implemented a custom transformer to process separately two textual variables.
 
